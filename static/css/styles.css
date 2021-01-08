@@ -1,0 +1,16 @@
+body {
+    background-color: powderblue;
+    text-align: center;
+}
+
+.navbar {
+    background-color: powderblue;
+}
+
+a {
+    color : #f8f9fa;
+}
+
+a:hover {
+    color: powderblue;
+
